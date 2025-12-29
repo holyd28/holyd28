@@ -8,8 +8,10 @@ My hobbies include:
 - photography
 - music
 
-**Technical Skills**  
+### **Technical Skills**  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=holyd28&show_icons=true&theme=minimal)
